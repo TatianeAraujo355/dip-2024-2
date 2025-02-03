@@ -1,1 +1,1 @@
-# Atividade de Processamento de Imagens
+# Atividades de Processamento de Imagens
